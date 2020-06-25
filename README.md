@@ -15,3 +15,6 @@ Day 1
 ![](https://i.imgur.com/Doh5u3C.png)
 Day 2
 ![](https://i.imgur.com/lkXLnR1.png)
+
+
+Twemoji graphics made by Twitter and other contributors, licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
