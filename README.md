@@ -1,7 +1,7 @@
 # Simple Habit Tracker
 [![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/simple-habit-tracker/cndpjnlmeibpkoadaacmbdhmackmbfgj?hl=en&authuser=3)
 
-A chrome extension that goes replaces your New Tab with a minimalist habit tracker.
+A chrome extension that replaces your New Tab with a minimalist habit tracker.
 
 Inspired by [/r/theXeffect](https://www.reddit.com/r/theXeffect/).
 
