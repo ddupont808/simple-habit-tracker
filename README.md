@@ -1,5 +1,5 @@
 # Simple Habit Tracker
-[![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/simple-habit-tracker/cndpjnlmeibpkoadaacmbdhmackmbfgj?hl=en&authuser=3)
+[![](https://i.imgur.com/Z3Hhg8n.png)](https://chrome.google.com/webstore/detail/simple-habit-tracker/cndpjnlmeibpkoadaacmbdhmackmbfgj)
 
 A chrome extension that replaces your New Tab with a minimalist habit tracker.
 
